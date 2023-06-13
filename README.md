@@ -5,12 +5,7 @@
     </a>
   </div>
 
-  <div align="center">
-    <!-- <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
-    <!-- <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
-    <!-- <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
-    <!-- <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
-    <!-- <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
+  <div align="left">
     <a href="https://blog.csdn.net/Junio_2014?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/li-xiao-bin-21"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
@@ -31,11 +26,10 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-### 🤺 About Me
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是李小版同学。</p>
+<p>&emsp;&emsp;大家好，我是李小斌同学。</p>
 <p><strong>&emsp;&emsp;Rome was not built in a day!Try to make a progress everyday.</strong></p>
 
 </td></tr>
