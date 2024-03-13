@@ -1,17 +1,39 @@
+<!-- Your title -->
+## 🙋 Hello there
+
+![](https://github.com/dartagnanli/dartagnanli/blob/main/icons/header_1.png)
+
+I'm Li Bin, a software engineer from China 🌈
+
+<img width="50%" align="right" alt="Tims github stats" src="https://github-readme-stats.vercel.app/api?username=dartagnanli&show_icons=true&hide_border=true" />
+
+- 👨🏽‍💻 Bachelors degree in Computer-Science at [BIT](https://www.bit.edu.cn/) in Beijing(Germany)
+- :wrench: Currently working for various customers, mainly as K8s and Backend engineer.
+- 💬 Right now my favourite language is [GO](https://github.com/golang/go)
+- :pencil2: Feel free to contribute to my projects
+- :question: Ask me about anything, I am happy to help
+
+**Languages and Tools:**
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/podmanio/podmanio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-ar21.svg"></code>
+</p>
+
 <div align="center">
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E7%96%8F%E5%BD%B1%E6%A8%AA%E6%96%9C%E6%B0%B4%E6%B8%85%E6%B5%85%EF%BC%8C%E6%9A%97%E9%A6%99%E6%B5%AE%E5%8A%A8%E6%9C%88%E9%BB%84%E6%98%8F%E3%80%82" alt="Typing SVG" />
-    </a>
-  </div>
-
-  <div align="left">
-    <a href="https://blog.csdn.net/Junio_2014?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/li-xiao-bin-21"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=dartagnanli&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -20,45 +42,6 @@
   </picture>
 </div>
 
-# 🙋 Hello
-
-<table>
-<tr><td>
-
-<!-- About me 关于我 -->
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<p>&emsp;&emsp;大家好，我是李小斌同学。</p>
-<p><strong>&emsp;&emsp;Rome was not built in a day!Try to make a progress everyday.</strong></p>
-
-</td></tr>
-
-<tr>
-<td>
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<div align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=1000&color=02080B&random=false&width=435&lines=%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%EF%BC%8C%E7%BB%88%E4%B8%8D%E4%BC%BC%EF%BC%8C%E5%B0%91%E5%B9%B4%E6%B8%B8%E3%80%82" alt="Typing SVG" /></a>
+</div>
