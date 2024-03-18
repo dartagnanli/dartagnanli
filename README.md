@@ -7,7 +7,7 @@ I'm Li Bin, a software engineer from China 🌈
 
 <img width="50%" align="right" alt="Tims github stats" src="https://github-readme-stats.vercel.app/api?username=dartagnanli&show_icons=true&hide_border=true" />
 
-- 👨🏽‍💻 Bachelors degree in Computer-Science at [BIT](https://www.bit.edu.cn/) in Beijing(Germany)
+- 👨🏽‍💻 Bachelors degree in Computer-Science at [BIT](https://www.bit.edu.cn/) in Beijing(China)
 - :wrench: Currently working for various customers, mainly as K8s and Backend engineer.
 - 💬 Right now my favourite language is [GO](https://github.com/golang/go)
 - :pencil2: Feel free to contribute to my projects
